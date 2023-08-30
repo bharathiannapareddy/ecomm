@@ -1,0 +1,176 @@
+{
+    "products": [
+      {
+        "name": "Sports Watch",
+        "description": "watch",
+        "manufacturer": "UK",
+        "viewcount": 24,
+        "quantity": 10,
+        "price": 1111,
+        "img": "/assets/w1.jpg",
+        "catergory": "Elect",
+        "id": "5"
+      },
+      {
+        "name": "Titan Watch",
+        "description": "watch",
+        "manufacturer": "UK",
+        "viewcount": 8,
+        "quantity": 10,
+        "price": 1111,
+        "img": "/assets/w3.jpg",
+        "catergory": "Elect",
+        "id": "6"
+      },
+      {
+        "name": "PerlNeckless",
+        "description": "Silver plated",
+        "manufacturer": "India",
+        "quantity": 10,
+        "price": 1111,
+        "id": "7",
+        "img": "/assets/neckless.jpg",
+        "catergory": "Jwellery",
+        "viewcount": 4
+      },
+      {
+        "name": "BluePerlPiece",
+        "description": "Neckless",
+        "manufacturer": "India",
+        "quantity": 10,
+        "price": 1111,
+        "id": "8",
+        "img": "/assets/j1.jpg",
+        "catergory": "Jwellery",
+        "viewcount": 4
+      },
+      {
+        "name": "DennisShirt",
+        "description": "shirt",
+        "manufacturer": "India",
+        "viewcount": 7,
+        "quantity": 3,
+        "price": 5000,
+        "img": "/assets/s2.jpg",
+        "catergory": "Men",
+        "id": "9"
+      },
+      {
+        "name": "Neckless",
+        "description": "Neckless",
+        "manufacturer": "India",
+        "quantity": 10,
+        "price": 1111,
+        "id": "10",
+        "img": "/assets/j3.jpg",
+        "catergory": "Jwellery",
+        "viewcount": 4
+      },
+      {
+        "name": "Saree",
+        "description": "Pattu saree",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 5000,
+        "id": "11",
+        "img": "/assets/saree2.jpg",
+        "catergory": "Women",
+        "viewcount": 4
+      },
+      {
+        "name": "KanchivaramSaree",
+        "description": "saree",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 5000,
+        "id": "12",
+        "img": "/assets/saree1.jpg",
+        "catergory": "Women",
+        "viewcount": 4
+      },
+      {
+        "name": "DrappedLehanga",
+        "description": "Pattu",
+        "manufacturer": "UK",
+        "quantity": 3,
+        "price": 500,
+        "id": "13",
+        "img": "/assets/lehanga.jpeg",
+        "catergory": "Women",
+        "viewcount": 4
+      },
+      {
+        "name": "LeninShirt",
+        "description": "shirt",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 6700,
+        "id": "14",
+        "img": "/assets/s1.jpg",
+        "catergory": "Men",
+        "viewcount": 4
+      },
+      {
+        "name": "DenimShirt",
+        "description": "sahirt",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 900,
+        "id": "15",
+        "img": "/assets/s3.jpg",
+        "catergory": "Men",
+        "viewcount": 4
+      },
+      {
+        "name": "t-shirt",
+        "description": "Women T-shirt",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 500,
+        "id": "16",
+        "img": "/assets/shirt.jpg",
+        "catergory": "Men",
+        "viewcount": 4
+      },
+      {
+        "name": "Epson Printer",
+        "description": "Lasting Printer",
+        "manufacturer": "India",
+        "quantity": 3,
+        "price": 7000,
+        "id": "17",
+        "img": "/assets/printer.jpg",
+        "catergory": "Elect",
+        "viewcount": 4
+      }
+    ],
+    "users": [
+      {
+        "email": "honey@gmail.com",
+        "password": "Honey123@",
+        "fname": "Honey",
+        "lname": "Mandi",
+        "loc": "Vemula",
+        "phone": "6754493496",
+        "id": 2
+      },
+      {
+        "email": "john@gmail.com",
+        "password": "John@john2",
+        "fname": "john",
+        "lname": "john",
+        "loc": "India",
+        "phone": "2345678913",
+        "id": 3
+      },
+      {
+        "email": "bhar@gmail.com",
+        "password": "Bhar@123",
+        "fname": "Bharathi",
+        "lname": "Bhar",
+        "loc": "Bhar",
+        "phone": "9876543212",
+        "id": 4
+      }
+    ]
+  }
